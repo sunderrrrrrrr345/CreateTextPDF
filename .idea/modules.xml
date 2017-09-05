@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CreateTextPDF/CreateTextPDF.iml" filepath="$PROJECT_DIR$/CreateTextPDF/CreateTextPDF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreateTextToPDF.iml" filepath="$PROJECT_DIR$/CreateTextToPDF.iml" />
+    </modules>
+  </component>
+</project>
